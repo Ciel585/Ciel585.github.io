@@ -1,11 +1,11 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "About ten years ago, a friend of mine introduced me to a type of animated works called anime, after that I watched hundreds of similar works. And it all started with anime: -Hellsing"
+featured_image: '/images/Хеллсинг.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/Хеллсинг.jpg" title="Illustration from the anime Hellsing" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Hellsing is a manga created by Kotoy Hirano. It was first published in the Japanese magazine Young King OURs in 1997 and completed in September 2008. Individual chapters are collected in tankobones and released by Shonen Gahosha Publishing house in Japan. In March 2009, all chapters of the manga were published in 10 volumes. The story tells about the secret organization "Hellsing" and its struggle against supernatural forces threatening Great Britain.
